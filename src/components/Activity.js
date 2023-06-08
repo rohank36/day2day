@@ -5,7 +5,7 @@ const Activity = () => {
   const [activity, setActivity] = useState("");
 
   const fetchNewActivity = () => {
-    fetch("http://www.boredapi.com/api/activity/")
+    fetch("https://www.boredapi.com/api/activity/")
       .then((res) => res.json())
       .then((data) => setActivity(data.activity));
   };
