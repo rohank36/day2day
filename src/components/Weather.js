@@ -19,7 +19,7 @@ const Weather = () => {
   function getPosition(position) {
     const lat = position.coords.latitude;
     const long = position.coords.longitude;
-    const APIKEY = "6b540e48281c3b81655403b7db32e7be";
+    const APIKEY = "REDACTED"; //Hidden API key for security 
     fetch(
       `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=${APIKEY}&units=metric`
     )
