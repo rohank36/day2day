@@ -5,6 +5,6 @@ Get some inspiration from a nice quote.
 
 Get a random acitvity to do.
 
-Get information on the weather at your current location.
+Get information on the current weather at your location.
 
 Made using React and Tailwind CSS, Bored API, OpenWeather API, and the type.fit Quotes API.
