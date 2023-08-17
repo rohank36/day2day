@@ -11,4 +11,4 @@ Made using React and Tailwind CSS, Bored API, OpenWeather API, and the type.fit 
 
 Deployed to production with Vercel.
 
-Note: Quotes API has severely reduced the quotes in their database
+Note: Quotes API has severely reduced the number quotes in their database, so may see repeats frequently.
