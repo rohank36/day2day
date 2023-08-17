@@ -10,3 +10,5 @@ Get information on the current weather at your location.
 Made using React and Tailwind CSS, Bored API, OpenWeather API, and the type.fit Quotes API. 
 
 Deployed to production with Vercel.
+
+Note: Quotes API has severely reduced the quotes in their database
